@@ -30,6 +30,4 @@ Currently interning as a **Pranata Komputer** at the **Ministry of Transportatio
 ---
 
 ### 📬 Connect with Me
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
-- **Email:** your.email@example.com
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/saepul-ramdani)
